@@ -1,6 +1,6 @@
 /*
 Program 26    Write a program to find the factorial of given number using a user defined value function 
-Solution   Using while loop 
+Solution 2   Using while loop 
 */
 
 
